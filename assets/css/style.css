@@ -1,0 +1,9 @@
+ /* common selector */
+ :root{
+    --brand-color: #2C7123;
+    --primary-color: #F8F4F0;
+    --color-white: #fff;
+    --color-dark: #000;
+    --border-width: 2px;
+    --btn-padding: 10px 65px;
+ }
